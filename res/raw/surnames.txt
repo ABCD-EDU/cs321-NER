@@ -72,7 +72,7 @@ pascua
 de vera
 romero
 de jesus
-dela peÃÂÃÂ±a
+dela pe�a
 valencia
 ignacio
 vergara
@@ -81,7 +81,7 @@ angeles
 espiritu
 fuentes
 legaspi
-caÃÂÃÂ±ete
+ca�ete
 peralta
 vargas
 cabrera
@@ -125,7 +125,7 @@ magbanua
 de castro
 panganiban
 galang
-nuÃÂÃÂ±ez
+nu�ez
 roxas
 ruiz
 pangilinan
@@ -154,7 +154,7 @@ sevilla
 beltran
 gabriel
 mateo
-ybaÃÂÃÂ±ez
+yba�ez
 nicolas
 mendez
 cunanan
@@ -182,14 +182,14 @@ ong
 lucero
 abdullah
 manzano
-ibaÃÂÃÂ±ez
+iba�ez
 marcelo
 ponce
 gallardo
 rosario
 delgado
 canlas
-cariÃÂÃÂ±o
+cari�o
 yap
 go
 esteban
@@ -265,7 +265,7 @@ buenaventura
 ballesteros
 clemente
 sy
-peÃÂÃÂ±a
+pe�a
 jacinto
 vidal
 salas
@@ -329,7 +329,7 @@ musa
 sultan
 tenorio
 solomon
-espaÃÂÃÂ±ola
+espa�ola
 narciso
 pangan
 pelayo
@@ -345,7 +345,7 @@ aragon
 medrano
 ang
 guinto
-castaÃÂÃÂ±eda
+casta�eda
 paras
 alvarado
 omar
@@ -359,7 +359,7 @@ adriano
 santa ana
 sagun
 pacheco
-muÃÂÃÂ±oz
+mu�oz
 landicho
 arroyo
 rodrigo
@@ -375,7 +375,7 @@ junio
 de los santos
 villaruel
 hilario
-aÃÂÃÂ±onuevo
+a�onuevo
 felipe
 montes
 gaspar
@@ -441,7 +441,7 @@ paz
 sandoval
 delima
 urbano
-quiÃÂÃÂ±ones
+qui�ones
 decena
 de villa
 salonga
@@ -490,7 +490,7 @@ regalado
 baluyot
 mojica
 mayo
-acuÃÂÃÂ±a
+acu�a
 alfaro
 de torres
 gatchalian
@@ -500,7 +500,7 @@ osorio
 araneta
 san pedro
 divinagracia
-montaÃÂÃÂ±o
+monta�o
 barredo
 sumalinog
 akmad
@@ -542,7 +542,7 @@ hermoso
 lazo
 buenaflor
 danao
-peÃÂÃÂ±aflor
+pe�aflor
 mesa
 bantilan
 marzan
@@ -554,7 +554,7 @@ palacio
 belleza
 dacanay
 magnaye
-peÃÂÃÂ±aranda
+pe�aranda
 arguelles
 almazan
 pamintuan
@@ -576,7 +576,7 @@ dumlao
 balbuena
 villarosa
 guanzon
-parreÃÂÃÂ±o
+parre�o
 puno
 revilla
 cardenas
@@ -622,7 +622,7 @@ belmonte
 mamaril
 cayetano
 cacho
-dueÃÂÃÂ±as
+due�as
 florentino
 barrameda
 poblete
@@ -685,9 +685,9 @@ naval
 pulido
 balansag
 rosas
-mariÃÂÃÂ±as
+mari�as
 cornelio
-baÃÂÃÂ±ez
+ba�ez
 palomar
 adolfo
 amaro
@@ -765,7 +765,7 @@ lariosa
 caparas
 verzosa
 sicat
-viÃÂÃÂ±as
+vi�as
 buendia
 manalastas
 alipio
@@ -784,10 +784,10 @@ pamplona
 mauricio
 veloso
 balaba
-baÃÂÃÂ±ares
+ba�ares
 adlawan
 aba
-daÃÂÃÂ±o
+da�o
 arce
 magtibay
 alburo
@@ -795,7 +795,7 @@ isip
 gervacio
 manatad
 jumao-as
-opeÃÂÃÂ±a
+ope�a
 parungao
 arnaiz
 cayanan
@@ -806,7 +806,7 @@ claveria
 gatdula
 royo
 galo
-biÃÂÃÂ±as
+bi�as
 pedro
 celeste
 villaruz
@@ -815,7 +815,7 @@ rada
 palermo
 roble
 gallano
-miÃÂÃÂ±oza
+mi�oza
 suico
 barbosa
 arcega
@@ -832,7 +832,7 @@ maghanoy
 tolosa
 cabiles
 tiu
-ordoÃÂÃÂ±ez
+ordo�ez
 del castillo
 palencia
 dimaculangan
@@ -924,12 +924,12 @@ rondina
 macaraig
 tapia
 baluyut
-caÃÂÃÂ±ada
+ca�ada
 soberano
 madera
-sÃÂÃÂ¡ntos
+s�ntos
 kusain
-espaÃÂÃÂ±ol
+espa�ol
 silverio
 abellana
 palad
@@ -981,7 +981,7 @@ nieva
 taruc
 capulong
 avelino
-leaÃÂÃÂ±o
+lea�o
 mira
 amora
 victoriano
