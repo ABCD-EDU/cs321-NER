@@ -1,0 +1,1540 @@
+Manila
+Quezon City
+Davao
+Caloocan City
+Zamboanga City
+Cebu City
+Taguig City
+Antipolo
+Pasig City
+Valenzuela
+Cagayan de Oro
+City of Parañaque
+Dasmariñas
+General Santos
+Bacoor
+San Jose del Monte
+Makati City
+Las Piñas City
+Bacolod
+Muntinlupa City
+City of Calamba
+Lapu-Lapu City
+Imus
+Mandaluyong City
+Angeles City
+Pasay City
+Marikina City
+Iloilo
+General Trias
+Rodriguez
+Santa Rosa
+Biñan
+Taytay
+Malabon
+Tarlac City
+Cainta
+Lipa City
+Mandaue City
+Butuan
+Baguio City
+Iligan
+Cabuyao
+San Fernando
+San Pedro
+Batangas
+Cabanatuan City
+Cotabato
+Binangonan
+Tanza
+Puerto Princesa
+Navotas
+Tagum
+Silang
+Mabalacat
+Santa Maria
+San Pablo
+Lucena
+San Mateo
+Talisay
+Malolos
+Marilao
+Olongapo
+Tacloban
+Meycauayan
+Ormoc
+Santo Tomas
+Valencia
+Trece Martires City
+Naga City
+Pagadian
+Legazpi City
+Panabo
+Marawi City
+Toledo
+San Carlos City
+Kabankalan
+Koronadal
+Tanauan
+General Mariano Alvarez
+Bago
+Malaybalay
+Digos
+Calbayog City
+Sorsogon
+Roxas City
+Dagupan City
+Mexico
+Lubao
+Polomolok
+San Miguel
+Baliuag
+Surigao
+Concepcion
+Tuguegarao
+Midsayap
+Pikit
+Naic
+Sariaya
+Kidapawan
+Pandi
+Cadiz
+Ilagan
+Danao
+Poblacion
+Capas
+San Juan
+San Jose
+Minglanilla
+Consolacion
+San Jose
+Mariveles
+Sagay
+Santiago
+Mati
+Calapan
+Urdaneta
+Arayat
+Bocaue
+Malasiqui
+Calabayan
+Tabaco
+Porac
+Ozamiz City
+Tanay
+La Trinidad
+Candelaria
+Dipolog
+Jolo
+Dumaguete City
+Carcar
+Nasugbu
+Gingoog
+Norzagaray
+Floridablanca
+Angono
+Daraga
+Hagonoy
+Naga
+Talavera
+San Carlos
+Guagua
+Silay
+City of Isabela
+Santo Tomas
+Rosario
+Guimba
+San Fernando
+Santa Cruz
+Magalang
+Gapan
+Bayawan
+Tabuk
+Calumpit
+Candaba
+Dinalupihan
+Apalit
+Ligao
+Malita
+Plaridel
+Guiguinto
+Los Baños
+Samal
+Himamaylan
+Bongao
+San Ildefonso
+Mangaldan
+Iriga City
+San Juan
+Daet
+Rosario
+Manolo Fortich
+Libmanan
+Tayabas
+Laoag
+Subic
+Kawit
+Baybay
+Pulilan
+Tacurong
+Cavite City
+Naujan
+Quezon
+Glan
+Carmona
+Bayugan
+Talisay
+Lingayen
+Cawayan
+Maramag
+Tagbilaran City
+Carmen
+Pateros
+Tiaong
+Catbalogan
+Bulan
+Maluñgun
+Sultan Kudarat
+Balanga
+Masbate
+Sindangan
+Paniqui
+San Rafael
+Parang
+Guihulñgan
+Calasiao
+Santa Cruz
+Lamitan
+Talipao
+Catarman
+Isulan
+Kalibo
+Ipil
+Prosperidad
+Alabel
+Maasin
+Nabunturan
+Cabadbaran
+Balagtas
+Virac
+Poblacion
+Pavia
+Oroquieta
+Borongan
+Bayombong
+Teresa
+San Jose
+Taal
+Tandag
+Naval
+Caridad
+Boac
+Vigan
+Iba
+Noveleta
+Bangued
+Tubod
+Mamburao
+Palayan City
+Baler
+Mambajao
+Romblon
+Jordan
+San Roque
+Shariff Aguak
+Cabarroguis
+Camaligan
+Siquijor
+General Emilio Aguinaldo
+Bontoc
+Lagawe
+Kabugao
+Magugpo Poblacion
+Basco
+Santa Cruz
+Koronadal
+San Jose
+Tabuk
+Pili
+Alaminos
+Pili
+Oton
+Bislig
+M’lang
+Balayan
+Escalante
+Balamban
+Gerona
+Lopez
+Daanbantayan
+Monkayo
+Lemery
+Kabacan
+Indanan
+Santa Barbara
+Palimbang
+Sablayan
+Bauan
+Salaman
+Pongotan
+Victorias
+Pinamalayan
+Compostela
+Polangui
+Bogo
+Banga
+Surallah
+Hinigaran
+Calabanga
+Passi
+Murcia
+Calauan
+Solana
+Baras
+Aroroy
+Echague
+San Fabian
+Makilala
+Calaca
+Camiling
+Baggao
+Binmaley
+Nabua
+Bantayan
+Tagaytay
+Cabiao
+Guinobatan
+Batarasa
+Dapitan
+Science City of Muñoz
+Bais
+Bolinao
+San Antonio
+Maco
+Taytay
+Siaton
+Mabinay
+Tanjay
+Calatrava
+Carmen
+Bulacan
+Siasi
+Ubay
+Buhi
+Matalam
+Lambunao
+Barili
+San Jose
+Kapalong
+Tagoloan
+San Francisco
+Malapatan
+Jaen
+Poblacion
+Robles
+Patikul
+Mangatarem
+Bauang
+Pagbilao
+Pototan
+Limay
+Macabebe
+Argao
+Bamban
+Bustos
+Narra
+Hermosa
+Santa Catalina
+Manaoag
+Umingan
+Bongabong
+Talakag
+Palo
+Infanta
+Santa Rosa
+Pilar
+Pinamungahan
+Libon
+Bugallon
+Pozorrubio
+Dalaguete
+Esperanza
+Balingasag
+Dumangas
+Alicia
+Brookes Point
+Lala
+Tupi
+Bula
+Jose Abad Santos
+Carles
+San Fernando
+Bacacay
+Morong
+Catanauan
+Sipalay
+Camalig
+Pigcawayan
+Pililla
+Gumaca
+Calauag
+Binalbagan
+Talibon
+Parang
+Goa
+Orani
+Mauban
+Tumauini
+Rizal
+Tinambac
+San Pascual
+Roxas
+Indang
+Don Carlos
+La Paz
+Cawayan
+Mamungan
+Aparri
+Bagumbayan
+Buenavista
+San Leonardo
+Tangub
+Bay
+Alamada
+Castillejos
+Miagao
+Tuburan
+Sipocot
+Cuyapo
+Santa Barbara
+Rosales
+Agoo
+San Mateo
+Janiuay
+La Carlota
+Bongabon
+Lupon
+Botolan
+Opol
+Angat
+San Remigio
+Oas
+Malvar
+Roxas
+Lantapan
+Kiamba
+Coron
+Villasis
+Lutayan
+Solano
+Nagcarlan
+Quezon
+Maasin
+Isabela
+Saravia
+Hilongos
+Sibulan
+Atimonan
+Victoria
+Tuao
+Aliaga
+Sibalom
+Santa Cruz
+Jose Pañganiban
+Moncada
+Bansalan
+San Fernando
+Calinog
+Santa Ana
+Kapatagan
+Aurora
+Cambanugoy
+Baao
+Santo Domingo
+Orion
+Cabatuan
+Itogon
+Tigaon
+Abuyog
+Tulunan
+Obando
+Rosario
+Jinoba-an
+Malay
+Castilla
+Laoang
+Matanao
+Gubat
+Paracale
+Medellin
+Maimbung
+San Simon
+Alfonso
+San Mariano
+Kananya
+Ilog
+Sigaboy
+Ragay
+San Francisco
+Irosin
+San Luis
+Roxas
+Esperanza
+Ibaan
+El Salvador
+Mansalay
+Calatagan
+Masantol
+Canlaon
+Upi
+Gattaran
+Barotac Nuevo
+Baganga
+Palompon
+Asingan
+Cogan
+Dumanjog
+Tanauan
+New Corella
+Santa Maria
+Jasaan
+Milagros
+Binalonan
+Alangalang
+Uson
+Buluan
+Hagonoy
+Lian
+Tiwi
+Ramon
+Poblacion
+Paombong
+Lagonoy
+Basey
+Pangantocan
+Placer
+Libungan
+Magsaysay
+Pila
+Diffun
+Urbiztondo
+General Tinio
+Bambang
+Batac
+Mulanay
+Asturias
+Mercedes
+Manapla
+San Isidro
+Carigara
+Estancia
+Pontevedra
+Sara
+Santa Cruz
+Masinloc
+San Manuel
+Trento
+Tapas
+Minalabac
+Titay
+Tagkawayan
+Cabagan
+Impasugong
+Magpet
+Kitaotao
+Sibonga
+Pasacao
+Ajuy
+Dauis
+Guiuan
+Lucban
+Barobo
+Molave
+Buenavista
+Aurora
+Hamtic
+Padre Garcia
+Sison
+Bani
+San Joaquin
+Burauen
+Ibajay
+Naguilian
+Bato
+President Roxas
+Claveria
+Alaminos
+Leon
+Mabini
+Caramoan
+Cardona
+Bantacan
+Ocampo
+San Narciso
+Aringay
+Kalamansig
+Cataingan
+Gloria
+Donsol
+El Nido
+Amulung
+Wao
+Peñablanca
+Pananaw
+Pontevedra
+Zaragoza
+Alcala
+Santa Rita
+Rosario
+Dumarao
+Odiongan
+Kiblawan
+Pio Duran
+Dulag
+Carmen
+Vinzons
+Minalin
+Malabang
+Panay
+Libona
+Dumingag
+Inabanga
+Barotac Viejo
+Lal-lo
+Bacolor
+New Washington
+Siocon
+Mahayag
+Tuba
+Tibigan
+Balimbing
+Talisay
+Santa Ignacia
+Malinao
+Sogod
+Pilar
+Bunawan
+Isabel
+Pilar
+Sumisip
+Albuera
+Ayungon
+Banisilan
+Norala
+Kabasalan
+Tuy
+Cordon
+Montevista
+Narvacan
+Lower Tungawan
+Dingle
+Pagalungan
+Lupao
+Tayug
+Pagsanjan
+Maluso
+Lumba-a-Bayabao
+Tantangan
+Jones
+Talagutong
+San Jacinto
+Victoria
+Aguilar
+Basud
+Angadanan
+Concepcion
+Buguias
+Maria Aurora
+San Jose
+Manjuyod
+Bacnotan
+Nasipit
+Katipunan
+Dolores
+Culasi
+San Pascual
+Loon
+Banaybanay
+Labangan
+Bulalacao
+General Mamerto Natividad
+Maitum
+Cateel
+Mandaon
+Guinayangan
+Labason
+Badian
+Hinatuan
+Jaro
+Loreto
+Kalilangan
+Laurel
+Toboso
+Santa Elena
+Madridejos
+Moises Padilla
+Roseller Lim
+Guambog
+Abucay
+South Upi
+Villaba
+Santo Tomas
+Nueva Valencia
+Panitan
+Amadeo
+Proper Bansud
+Tucuran
+Llanera
+Balabac
+Liloy
+Santa Rita
+Carranglan
+Santa Cruz
+Polanco
+Quezon
+President Quirino
+Claveria
+Aritao
+Matnog
+Bacong
+Puerto Galera
+Anda
+Kibawe
+Naga
+Kasibu
+Daram
+San Miguel
+Socorro
+Tabogon
+Santa Cruz
+Tagudin
+Malilipot
+Gonzaga
+Mondragon
+Maayon
+Alcala
+Santo Tomas
+Lasam
+La Libertad
+Villanueva
+San Juan
+Vallehermoso
+Tagbina
+Tampakan
+Mobo
+Nabas
+Maddela
+Mambusao
+Lobo
+Maragondon
+Balaoan
+Valladolid
+Bañga
+Siay
+Leyte
+Panglao
+Rizal
+Taysan
+Cabatuan
+Dingras
+Payabon
+Lilio
+Malalag
+Plaridel
+Balud
+Santo Niño
+Siniloan
+Pamplona
+Baco
+Alimodian
+Tago
+San Nicolas
+Poblacion
+Palauig
+Magsaysay
+Agoncillo
+San Nicolas
+Clarin
+Pamplona
+Veruela
+Kalingalan Caluang
+Buldon
+Sogod
+Talacogon
+Caraga
+Alicia
+Manay
+Damulog
+Sual
+San Dionisio
+Mapandan
+Cabugao
+Basista
+Caluya
+San Fernando
+Bangar
+Margosatubig
+Valencia
+Samal
+Aborlan
+Olutanga
+Jamindan
+Maasin
+Real
+Buug
+San Andres
+Patnongon
+Borbon
+Santo Domingo
+Tayasan
+Laur
+Bagabag
+Luna
+San Andres
+Luuk
+Mabuhay
+Marantao
+San Marcelino
+Tambulig
+Magallanes
+Oras
+San Antonio
+Bantay
+Mankayan
+Sitangkai
+Basilisa
+San Enrique
+Moalboal
+Imbatug
+Languyan
+Sagnay
+Magsaysay
+Canaman
+Manucan
+San Luis
+Aurora
+Numancia
+Enrile
+Cuenca
+Las Navas
+Dinas
+Gasan
+Simbahan
+Cabanglasan
+Dagami
+Rapu-Rapu
+Capalonga
+Siayan
+Pandan
+Barira
+Gutalac
+Bautista
+Claveria
+San Antonio
+Sibuco
+Matanog
+Jagna
+Casiguran
+Medina
+Guimbal
+Leganes
+Santa Ana
+Pambujan
+Balasan
+Santa Fe
+Mendez-Nuñez
+Pola
+Juban
+Morong
+Sulop
+Allacapan
+Gandara
+Trinidad
+Lingig
+Abra de Ilog
+San Luis
+Munai
+Payao
+Aloguinsan
+Dueñas
+Milaor
+Laoac East
+Barugo
+Bugasong
+Mogpog
+Santa Maria
+Abulug
+Jalajala
+Bonifacio
+Ballesteros
+Santa Maria
+Bayog
+New Panamao
+Simunul
+Talayan
+San Manuel
+Tandubas
+Sibutu
+Pinukpuk
+Guindulman
+San Quintin
+General Nakar
+Dao
+Palapag
+Tabango
+Initao
+Cantilan
+San Remigio
+Tobias Fornier
+Lianga
+Lupi Viejo
+Catmon
+Sibagat
+Bacarra
+Naguilian
+Datu Paglas
+Kadingilan
+Batan
+Capoocan
+Batobato
+Masiu
+Midsalip
+Sapa Sapa
+Banate
+Getafe
+Columbio
+San Vicente
+Calape
+Vintar
+Dupax Del Norte
+Pandami
+Dipaculao
+Dumalinao
+Lumbang
+Dolores
+Badoc
+Matalom
+Diplahan
+Mayantoc
+Balindong
+Peñaranda
+Alubijid
+Jimalalud
+Mallig
+Igbaras
+Balimbing
+Tubao
+Buguey
+Catubig
+Salug
+Tamparan
+Caramoran
+Bauko
+Malangas
+Claveria
+Polillo
+Mataas Na Kahoy
+Sigma
+Sergio Osmeña Sr
+Calubian
+Merida
+Ivisan
+Pantabangan
+Magsingal
+Lemery
+President Roxas
+Dimataling
+Dasol
+Bagac
+Pulupandan
+Buenavista
+Siraway
+Gata
+Paracelis
+San Narciso
+Tairan Camp
+San Miguel
+Balatan
+La Paz
+San Isidro
+Ganassi
+Aglipay
+Gamu
+Anilao
+Torrijos
+Pantao-Ragat
+Santa Maria
+Maguing
+Balungao
+Candijay
+Dumalag
+Candelaria
+Balete
+Iguig
+Salay
+Las Nieves
+Dauin
+Calintaan
+Padada
+Piagapo
+Marogong
+Makato
+Agno
+Placer
+Bontoc
+Ragan Sur
+San Roque
+Buenavista
+Balabagan
+San Jacinto
+Zamboanguita
+Benito Soliven
+San Luis
+Pasuquin
+Manticao
+Licab
+South Ubian
+Sumilao
+Kumalarang
+Lavezares
+Santo Domingo
+Garchitorena
+Oslob
+Sexmoan
+Dapa
+Hinunangan
+Poona-Piagapo
+Jimenez
+Lugus
+Tabuelan
+Ponot
+Babatngon
+San Manuel
+Ampatuan
+Baleno
+Mabini
+Pilar
+Tudela
+Tibiao
+Santiago
+Basay
+Saint Bernard
+Doña Remedios Trinidad
+Valencia
+Magdalena
+Santo Niño
+Kolambugan
+Datu Piang
+Reina Mercedes Viejo
+Libacao
+Talusan
+Majayjay
+Mainit
+Cabangan
+Cuartero
+Aloran
+Bayang
+Talisay
+San Isidro
+Dingalan
+Alitagtag
+Mahaplag
+Lapuyan
+Zarraga
+Pitogo
+Leon Postigo
+Villareal
+Bien Unido
+Conner
+Macalelon
+Ramon Magsaysay
+Palanas
+San Isidro
+Badiangan
+Magarao
+San Jose
+Taraka
+Saguiaran
+Quezon
+Labrador
+San Juan
+Tarragona
+Santa Margarita
+Pantar
+Lagindingan
+Sapian
+Lauaan
+Bugho
+San Pablo
+Macrohon
+Malitbog
+Pandag
+Poro
+Pura
+Casiguran
+Bubong
+Mabini
+Madalum
+Del Gallego
+Kayapa
+Santa Josefa
+Santa Lucia
+Manito
+Lamut
+Burgos
+Sinait
+Buenavista
+San Pablo
+Sanchez-Mira
+Infanta
+Sierra Bullones
+Socorro
+Bobon
+Dancagan
+Binidayan
+Tabina
+Tubay
+Natividad
+Talisayan
+Santa Maria
+Tarangnan
+Alegria
+Altavas
+Lopez Jaena
+Allen
+Ayuquitan
+Tipo-Tipo
+Busuanga
+Unisan
+Sarrat
+Pangil
+San Nicolas
+Camalaniugan
+San Miguel
+Tumbao
+Talugtug
+Nagtipunan
+Paete
+Monreal
+Paoay
+Poblacion
+Kalayaan
+San Felipe
+Pagudpud
+Quirino
+Dimasalang
+Ternate
+General Luna
+Baroy
+Balete
+San Enrique
+Solsona
+Piat
+Jabonga
+Tugaya
+Santo Tomas
+Pamplona
+Lucena
+Tamilisan
+Patian
+Tuburan
+Burdeos
+Sagbayan
+Carrascal
+Malinao
+Garcia Hernandez
+Bacolod
+Mina
+Kauswagan
+Alicia
+Lagonglong
+Caibiran
+Ramain
+San Fernando
+San Agustin
+Quezon
+Bulusan
+Magallanes
+Cavinti
+Pitogo
+Tangalan
+Catigbian
+Limbuhan
+Pakil
+Burgos
+Kalawit
+Candoni
+Padre Burgos
+Baliguian
+Ramos
+Cuyo
+Caba
+Dumaran
+Gamay
+Maibog
+Maigo
+Barbasa
+Calamba
+General Luna
+Calbiga
+Cajidiocan
+Tubungan
+Culion
+Carmen
+Baclayon
+Pitogo
+Prieto Diaz
+Viga
+Oteiza
+Lumbatan
+Santa Teresita
+Butig
+Lazi
+Magallanes
+Parabcan
+Sarangani
+Naawan
+Piddig
+Batad
+Santa Fe
+Maribojoc
+San Jose
+Anini-y
+Salcedo
+Bato
+San Agustin
+Madamba
+Gigaquit
+Guipos
+Looc
+MacArthur
+Cabucgayan
+San Fernando
+Tigbao
+Cagwait
+Can-Avid
+Rancheria Payau
+Pandan
+Tolosa
+Inopacan
+Clarin
+Linamon
+Mabitac
+Llorente
+Kitcharao
+Ronda
+Luna
+Barcelona
+Lugait
+Dupax del Sur
+Hindang
+Aguinaldo
+Luna
+Luisiana
+Banting
+San Guillermo
+Samboan
+Kawayan
+Banaue
+Sapang Dalaga
+Caoayan
+Kapay
+Magsaysay
+Piñan
+Danao
+Villa Verde
+Del Carmen
+Dagohoy
+Malabuyoc
+Valderrama
+Mulundo
+San Miguel
+Santiago
+San Miguel
+Sinacaban
+Tigbauan
+Tingloy
+Santa Teresita
+Cabusao
+Pugo
+Rizal
+Tublay
+Pastrana
+Buruanga
+Siruma
+Cervantes
+Espiritu
+Marihatag
+Alcoy
+Jiabong
+Tadian
+La Paz
+Kapangan
+Diadi
+Atok
+Rizal
+San Teodoro
+Lumbayanague
+San Gabriel
+Malimono
+Duero
+Santander
+Cortes
+Candon
+Rizal
+Sebaste
+Madalag
+Taft
+Nunuñgan
+Balilihan
+Paglat
+Baliangao
+Bilar
+Bombon
+Paluan
+Tinoc
+Mayorga
+Cagdianao
+Gitagum
+Santa Fe
+Almeria
+Marcos
+Pinabacdao
+San Jose
+Loay
+Libjo
+Buadiposo-Buntong
+Bucay
+Santa Fe
+Anda
+Cortes
+San Rafael
+Flora
+Marabut
+Jovellar
+Biliran
+Catarman
+Pinili
+Esperanza
+Kiangan
+Loboc
+Sibutao
+Palanan
+Matagob
+Libertad
+Boljoon
+San Jorge
+Lubang
+Tagana-an
+Santa Magdalena
+Alcantara
+Saguday
+Calayan
+Alcantara
+Sudipen
+Tomas Oppus
+Dilasag
+Ginatilan
+Famy
+Tubaran
+La Paz
+Madrid
+San Juan
+Zumarraga
+San Miguel
+Arteche
+Panukulan
+Alegria
+Bingawan
+Leso
+Alabat
+Tankal
+Quezon
+Despujols
+San Tomas
+Santa Catalina
+Julita
+Kabayan
+Sulat
+San Miguel
+Mayoyao
+Anao-aon
+Ambaguio
+San Policarpo
+Magdiwang
+Pudtol
+Victoria
+Libagon
+Tubod
+Motiong
+Maydolong
+Tagoloan
+Rizal
+Silvino Lobos
+Patnanungan
+Bangui
+Santa
+Tatarikan
+Antequera
+Tayum
+Mahinog
+Matungao
+San Juan
+Calanogas
+Lagangilang
+Bacuag
+Dimiao
+San Julian
+Batuan
+Belison
+Nampicuan
+Larena
+Lope de Vega
+Quinapundan
+Boston
+Maria
+Pualas
+Bakun
+Bagulin
+Sison
+General MacArthur
+Araceli
+Bokod
+Kinogitan
+Balangiga
+Mapanas
+Santol
+San Vicente
+Batuan
+Sampaloc
+Hinabangan
+Lanuza
+Dakit
+Baras
+Libertad
+San Clemente
+Santa Marcela
+Giporlos
+Agutaya
+Tinglayan
+Silago
+Agdangan
+Culaba
+Sagay
+Lawaan
+Burgos
+Perez
+Santo Niño
+Balbalan
+Pilar
+Magsaysay
+San Vicente
+Pidigan
+Anao
+Capul
+Tagoloan
+Hinundayan
+Currimao
+Calanasan
+Lila
+Josefina
+Tabontabon
+Gainza
+Agcogon
+Lapinig
+Nueva Era
+Mutia
+Carmen
+Dolores
+Biri
+Manabo
+Sablan
+Alburquerque
+Sagada
+Tudela
+Padre Burgos
+Sevilla
+Calatrava
+Rosario
+Bagamanoc
+Salcedo
+Balingoan
+Panaon
+San Juan
+Suyo
+Burgos
+San Ricardo
+Dinagat
+Pasil
+Galimuyod
+Pilar
+Pintuyan
+Corcuera
+Plaridel
+Natonin
+Pilar
+Balangkayan
+Sugbongkogon
+Hingyon
+San Isidro
+Panganiban
+Sabangan
+Corella
+Loreto
+Santa Monica
+Almagro
+Lubuagan
+Quirino
+Concepcion
+San Antonio
+Burgos
+Tagapul-an
+Bayabas
+San Sebastian
+San Ildefonso
+Hunduan
+San Esteban
+Tanudan
+Gigmoto
+San Isidro
+Hernani
+Tunga
+Anahawan
+Alfonso Castañeda
+Sadanga
+Hipadpad
+Ferrol
+Banayoyo
+Libertad
+Pagsanghan
+Tubajon
+Talalora
+Looc
+Rizal
+San Jose de Buan
+Binuangan
+Alilem
+Matuguinao
+San Vicente
+San Emilio
+Cagayancillo
+Peñarrubia
+Sikatuna
+Limasawa
+Guinisiliban
+Enrique Villanueva
+Besao
+Maripipi
+Luba
+Sallapadan
+Mercedes
+Jones
+Divilaca
+Dinapigue
+San Quintin
+San Benito
+Villaviciosa
+Tubo
+Taganak
+Nagbukel
+Maslog
