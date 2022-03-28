@@ -47,6 +47,7 @@ cymem=2.0.6=pypi_0
 debugpy=1.6.0=pypi_0
 decorator=5.1.1=pypi_0
 defusedxml=0.7.1=pypi_0
+en-core-web-sm=3.2.0=pypi_0
 entrypoints=0.4=pypi_0
 executing=0.8.3=pypi_0
 fastrlock=0.8=pypi_0
